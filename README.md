@@ -1,6 +1,6 @@
-### Github Favorites
+# Github Favorites
 
-In this WebAplication I manage:
+### In this WebAplication I manage:
 
 - APIs
 - imports and exports
